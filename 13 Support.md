@@ -1,4 +1,0 @@
-# Support
-
-
-[back](ReadMe.md)

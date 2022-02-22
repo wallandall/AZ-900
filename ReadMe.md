@@ -21,5 +21,3 @@ You may be eligible for ACE college credit if you pass this certification exam
 9. [Azure Solutions](9%20Azure%20Solutions.md)
 10. [Security](10%20Security.md)
 11. [Privacy Compliance & Trust](11%20Privacy%20Compliance%20&%20Trust.md)
-12. [Pricing](12%20Pricing.md)
-13. [Support](13%20Support.md)
