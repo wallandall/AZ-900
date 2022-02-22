@@ -25,7 +25,7 @@ Azure Cloud Shell is an interactive, browser accessible shell for managing Azure
 [ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) are a way to define which resources you want to create, update delete etc. in Azure. ARM Templates will have the same result each time they are run and can be used to automate processes in Azure.
 
 ### ARM Template Example for creating a Storage Account
-![image](img\ARMTemplate.png)
+![image](img/ARMTemplate.png)
 
 
 
