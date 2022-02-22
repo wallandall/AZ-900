@@ -38,7 +38,7 @@ One of the major reasons for using cloud resources is the cost associated with c
     - Users are not responsible for hardware or software updates
 - Shared Responsibility means that MS is responsible for certain areas and you are responsible for other areas when maintaining cloud resources e.g:
 
-![Shared Responsibility](img\SharedResponsibility.png)
+![Shared Responsibility](img/SharedResponsibility.png)
 
 ## Azure Marketplace
 Azure Marketplace is an integral part of Azure and offers Solutions and Services, Azure App, and is easy to integrate and publish your own Apps.
